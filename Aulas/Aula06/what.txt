@@ -1,0 +1,1 @@
+Nessa aula se mostra como são criados os componentes react

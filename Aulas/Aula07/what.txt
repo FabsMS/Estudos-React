@@ -1,0 +1,4 @@
+Mostrando o vite e a sua importância em projetos react
+
+Comando para criar um projeto vite:
+    npm create vite@latest
