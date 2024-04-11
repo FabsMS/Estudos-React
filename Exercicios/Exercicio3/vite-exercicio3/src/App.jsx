@@ -1,9 +1,10 @@
+import { Fragment } from "react"
 import profileImage from "./assets/messi.png"
 import Profile from "./components/Profile"
 
 export default function app(){
     return(
-        <>
+        <Fragment className="app">
             <Profile 
                 avatar={profileImage}
                 name="Lionel Messi"
@@ -14,6 +15,6 @@ export default function app(){
                 linkedinUrl="LinkedIn"
                 twitterUrl="Twitter"
             />
-        </>
+        </Fragment>
     )
 }
