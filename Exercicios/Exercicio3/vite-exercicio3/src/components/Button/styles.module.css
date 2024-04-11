@@ -1,0 +1,18 @@
+.button {
+    color: #FFFFFF;
+    border: none;
+    border-radius: 1rem;
+    padding: 1rem;
+    height: 5rem;
+    width: 10rem;
+    font-size: 1rem;
+    background: linear-gradient(to right, #287BC2, #6EC5E4);
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    transition: 0.4s ease;
+}
+
+.button:hover{
+    transform: scale(1.1);
+}
