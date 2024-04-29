@@ -5,7 +5,8 @@ Este repositório contém uma coleção de projetos, exercícios e estudos relac
 ## Estrutura do Repositório
 
 - **/Aulas**: Esta pasta contém códigos mostrados e replicados durante as aulas.
-- **/exercicios**: Exercícios e desafios de aprendizado em React.
+- **/Exercícios**: Exercícios e desafios de aprendizado em React.
+- **/Projetos**: Projetos pessoais e guiados, usando os conhecimentos adquiridos durante o curso.
 
 ## Recursos Recomendados
 
